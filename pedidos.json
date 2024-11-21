@@ -1,0 +1,110 @@
+[
+    {
+    "id_pedido": 101,
+    "cliente": "Carlos López",
+    "fecha": "2024-11-18",
+    "monto": 500.0,
+    "estado": "pendiente",
+    "items": [
+    {"producto": "Teclado", "cantidad": 2, "precio_unitario": 100.0},
+    {"producto": "Monitor", "cantidad": 1, "precio_unitario": 300.0}
+    ]
+    },
+    {
+    "id_pedido": 102,
+    "cliente": "María García",
+    "fecha": "2024-11-17",
+    "monto": 750.0,
+    "estado": "completado",
+    "items": [
+    {"producto": "Silla Gamer", "cantidad": 1, "precio_unitario": 250.0},
+    {"producto": "Escritorio", "cantidad": 1, "precio_unitario": 500.0}
+    ]
+    },
+    {
+    "id_pedido": 103,
+    "cliente": "Juan Pérez",
+    "fecha": "2024-11-18",
+    
+    "monto": 120.0,
+    "estado": "pendiente",
+    "items": [
+    {"producto": "Mouse", "cantidad": 2, "precio_unitario": 30.0},
+    {"producto": "Audífonos", "cantidad": 1, "precio_unitario": 60.0}
+    ]
+    },
+    {
+    "id_pedido": 104,
+    "cliente": "Ana Gómez",
+    "fecha": "2024-11-16",
+    "monto": 950.0,
+    "estado": "completado",
+    "items": [
+    {"producto": "Laptop", "cantidad": 1, "precio_unitario": 900.0},
+    {"producto": "Mouse", "cantidad": 1, "precio_unitario": 50.0}
+    ]
+    },
+    {
+    "id_pedido": 105,
+    "cliente": "Luis Martínez",
+    "fecha": "2024-11-19",
+    "monto": 200.0,
+    "estado": "pendiente",
+    "items": [
+    {"producto": "Teclado", "cantidad": 1, "precio_unitario": 100.0},
+    {"producto": "Mouse", "cantidad": 2, "precio_unitario": 50.0}
+    ]
+    
+    },
+    {
+    "id_pedido": 106,
+    "cliente": "Sofía Reyes",
+    "fecha": "2024-11-15",
+    "monto": 300.0,
+    "estado": "pendiente",
+    "items": [
+    {"producto": "Audífonos", "cantidad": 2, "precio_unitario": 150.0}
+    ]
+    },
+    {
+    "id_pedido": 107,
+    "cliente": "Pedro Morales",
+    "fecha": "2024-11-14",
+    "monto": 600.0,
+    "estado": "completado",
+    "items": [
+    {"producto": "Tablet", "cantidad": 2, "precio_unitario": 300.0}
+    ]
+    },
+    {
+    "id_pedido": 108,
+    "cliente": "María García",
+    "fecha": "2024-11-13",
+    "monto": 450.0,
+    "estado": "completado",
+    "items": [
+    
+    {"producto": "Monitor", "cantidad": 3, "precio_unitario": 150.0}
+    ]
+    },
+    {
+    "id_pedido": 109,
+    "cliente": "Carlos López",
+    "fecha": "2024-11-12",
+    "monto": 700.0,
+    "estado": "pendiente",
+    "items": [
+    {"producto": "Laptop", "cantidad": 1, "precio_unitario": 700.0}
+    ]
+    },
+    {
+    "id_pedido": 110,
+    "cliente": "Ana Gómez",
+    "fecha": "2024-11-11",
+    "monto": 500.0,
+    "estado": "completado",
+    "items": [
+    {"producto": "Escritorio", "cantidad": 1, "precio_unitario": 500.0}
+    ]
+    }
+    ]
